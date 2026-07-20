@@ -85,16 +85,13 @@ This project helped in understanding:
 
 ## 👨‍💻 Author
 
-**Syed Ahmed**
-
-GitHub: https://github.com/SYEDAHMED-WEB
+Developed by Syed Ahmed Shah Quadri as part of an internship task
 
 ---
 
 ## 📜 License
 
-This project is developed for educational and internship purposes.
-
+This project is open source and available under the MIT License.
 ---
 
 ### ⭐ If you found this project useful, consider giving it a Star on GitHub!
