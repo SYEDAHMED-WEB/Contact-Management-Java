@@ -92,6 +92,7 @@ Developed by Syed Ahmed Shah Quadri as part of an internship task
 ## 📜 License
 
 This project is open source and available under the MIT License.
+
 ---
 
 ### ⭐ If you found this project useful, consider giving it a Star on GitHub!
